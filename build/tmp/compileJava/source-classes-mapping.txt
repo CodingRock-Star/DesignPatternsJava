@@ -14,3 +14,5 @@ creationaldesign/Problem5.java
  creationaldesign.Problem5
 creationaldesign/Problem6.java
  creationaldesign.Problem6
+Problem7.java
+ Problem7

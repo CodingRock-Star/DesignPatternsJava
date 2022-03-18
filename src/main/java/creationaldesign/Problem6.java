@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class Problem6 {
     public static void main(String[] args) {
-        int[] elements = {1,1, 4, 2, 3};
+        int[] elements = {1, 4, 2, 3};
         boolean containsDuplicates = findDuplicate(elements);
         if (containsDuplicates) {
             System.out.println("Elements contains duplicates");
